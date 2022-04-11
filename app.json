@@ -64,7 +64,7 @@
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
        "required": true,
-       "value": "league_of_bots"
+       "value": "Techno_Trickop"
     },      
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
