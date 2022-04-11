@@ -4,9 +4,9 @@
 <p align="center">
     
     
-    # TrickyAbhi-Bot
+# TrickyAbhi-Bot
 OMFO Gimme a star and follow me
     
     
-    ### Noob Developers 
+### Noob Developers 
   <a href="https://t.me/ABHIISH3K_xD"><img src="https://img.shields.io/badge/Piro%20 Abhishek-Green.svg?style=for-the-badge&logo=Python"></a>
