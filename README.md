@@ -1,5 +1,6 @@
 ## Support & Updates 
 <a href="https://t.me/TrickyAbhii_Op"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Techno_Trickop"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://youtube.com/c/TrickyAbhi"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
   
 
 <h1 align="center"><b>TrickyAbhi-Bot</b></h1>
