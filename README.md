@@ -22,7 +22,6 @@ OMFO Gimme a star and follow me
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SJMxADITI/TrickyAbhi-Music)
 
 ## Join Here 
-    
-      [![Herox](https://telegra.ph/file/b9f38530315136d4bbe7c.jpg)](https://t.me/aboutez)
+[![Herox](https://telegra.ph/file/b9f38530315136d4bbe7c.jpg)](https://t.me/aboutez)
 
 
